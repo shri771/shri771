@@ -5,7 +5,7 @@
 
 <p> </br> I'm Shrikant, Backend developer from <img src="https://flagcdn.com/in.svg" width="18"/> <b>India</b>, currently living in Bengaluru</b>. </p>
 <p align="center">
-<a href="https://github.com/Viscous106" target="_blank" rel="noopener"><img src="https://github-profile-trophy.vercel.app/?username=shri771&theme=radical&row=1&column=7" /></a>
+<a href="https://github.com/shri771" target="_blank" rel="noopener"><img src="https://github-profile-trophy.vercel.app/?username=shri771&theme=radical&row=1&column=7" /></a>
 </p>
 
 <a href="https://cloud.layer5.io/user/ef117c72-354c-4b42-97cf-b8c68699b4fa?tab=badges&badge=first-design">
