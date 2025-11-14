@@ -25,9 +25,9 @@ Here are some of the technologies I love to work with:
   <img src="https://skillicons.dev/icons?i=go,postgresql,js,java" />
 </p>
 
-📊 My GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shri771&show_icons=true&theme=radical" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri771&layout=compact&theme=radical" alt="top langs" />
-</p>
+<!-- 📊 My GitHub Stats -->
+<!---->
+<!-- <p align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shri771&show_icons=true&theme=radical" alt="github stats" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri771&layout=compact&theme=radical" alt="top langs" /> -->
+<!-- </p> -->
