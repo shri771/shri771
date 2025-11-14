@@ -12,10 +12,10 @@
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" width="200"/>
 </a>
 
-<p align="center">
-<a href="https://shri771.github.io/portfolio/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-YourSite-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" target="_blank"></a>
-<a href="https://www.linkedin.com/in/shrikant-shingare-416bbb227/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" target="_blank"></a>
-</p>
+<!-- <p align="center"> -->
+<!-- <a href="https://shri771.github.io/portfolio/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-YourSite-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" target="_blank"></a> -->
+<!-- <a href="https://www.linkedin.com/in/shrikant-shingare-416bbb227/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" target="_blank"></a> -->
+<!-- </p> -->
 
 
 
