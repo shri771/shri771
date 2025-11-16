@@ -22,7 +22,7 @@
 Here are some of the technologies I love to work with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,postgresql,js,java,docker" />
+  <img src="https://skillicons.dev/icons?i=go,postgresql,js,java,docker,jwt" />
 </p>
 
 <!-- 📊 My GitHub Stats -->
